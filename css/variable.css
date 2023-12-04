@@ -1,0 +1,10 @@
+:root {
+    --color-primary: #901C1C;
+    --color-primary-light: #D3573C;
+    --color-second: #525252;
+    --color-second-light: #FAFAFA;
+
+    --raduis: 5px;
+
+    --transition-time: 250ms;
+}
