@@ -1,4 +1,7 @@
-// Classe représentant une API pour récupérer les données des photographes
+// Classe représentant une API pour récupérer les données des photographes.
+// Elle encapsule la logique pour effectuer une requête fetch vers une API (le fichier JSON dans ce cas) et gérer les réponses. 
+//Elle fournit une abstraction pour récupérer les données des photographes de manière asynchrone.
+
 export default class API {
 	/**
 	 * Constructeur de la classe API.
