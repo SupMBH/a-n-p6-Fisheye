@@ -1,3 +1,7 @@
+//PhotographerModel encapsule les données et la logique associées à un photographe, 
+//fournissant des méthodes pour accéder aux informations du profil 
+//et du portfolio du photographe de manière structurée et sécurisée.
+
 /**
  * @typedef {{id: number; name: string; tagline: string; country: string; city: string;
 * price: number; portrait: string;}} Profile
