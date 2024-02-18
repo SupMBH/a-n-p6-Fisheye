@@ -1,4 +1,7 @@
 // Classe représentant un modèle de présentation pour un photographe
+// ce module PhotographerFactory fournit une fonctionnalité pour créer différents types de présentations de photographe 
+// en utilisant la classe PhotographerTemplate, ce qui rend le code plus modulaire et réutilisable.
+
 export default class PhotographerTemplate {
 	/**
 	 * Constructeur de la classe PhotographerTemplate.
