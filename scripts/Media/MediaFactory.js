@@ -1,4 +1,5 @@
 // Importe les classes de modèle ImageModel et VideoModel
+// MediaFactory est utilisée pour créer des instances de modèles de médias (ImageModel ou VideoModel) en fonction des données fournies
 import ImageModel from './models/image.js';
 import VideoModel from './models/video.js';
 
