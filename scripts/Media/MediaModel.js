@@ -1,4 +1,7 @@
 // Classe représentant le modèle de données d'un média
+// Media fournit une abstraction pour représenter les données d'un média, avec des méthodes pour accéder et mettre à jour ses propriétés. 
+//Cette abstraction permet de manipuler facilement les médias dans l'application en encapsulant leurs données et en fournissant des interfaces claires pour les interagir.
+
 export default class Media {
 	// Propriétés privées de la classe
 	#id;
